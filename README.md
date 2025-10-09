@@ -5,6 +5,10 @@ Atualmente, atuo como Desenvolvedor e Suporte de TI na empresa Gaya, onde coloco
 <a href="https://www.linkedin.com/in/raphael-rodolfo-687463225/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<br>
+<a href="https://raphael135.github.io/My-Portfolio-/">
+  Meu Portifolio
+</a>
 
 
 ## Tecnologias que eu uso no meu dia
